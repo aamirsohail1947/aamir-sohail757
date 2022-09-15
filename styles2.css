@@ -1,0 +1,15 @@
+body{ background-color: green; margin: 0;
+}
+
+.top-container { background-color: yellow; width: 200px; height: 200px ;position:fixed;bottom:430px;
+  display: inline-block;
+}
+
+.middle-container { background-color: blue;
+width: 200px; height: 200px;
+position: absolute;left: 200px ;bottom:430px; display: inline-block;  }
+
+
+.bottom-container { background-color: red;
+width: 200px;height: 200px ; position: absolute;left:500px;bottom:  430px;
+display: inline-block;}
